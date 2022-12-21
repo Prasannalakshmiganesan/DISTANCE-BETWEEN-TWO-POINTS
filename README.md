@@ -10,7 +10,8 @@ Using import math function, do the calculations.
 Take the two coordinates as l1 and l2
 ### Step 3: 
 Substitute the values in the distance formula.
-![FORMULA](./images/formula.jpg)
+
+![FORMULA](./images/formula.png)
 ### Step 4: 
 Using the print function, display the distance between the two points.
 ### Step 5: 
